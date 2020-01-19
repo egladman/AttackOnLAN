@@ -14,7 +14,7 @@ I got bored one night...
 
 - `hping3`
 
-**Note: ** Only tested on Fedora
+**Note:** Only tested on Fedora
 
 ## How to Use
 
